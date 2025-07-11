@@ -10,7 +10,7 @@
 ***** string get_friend_names()
 *---------------------------------------------
 // Programmer - Ashley Jacobson
-// Tester - Heily Cabrera Guerrero
+// Tester - Audrey Tapia (TESTED)
 
 // Group Project B //
 /***** Members *****/
